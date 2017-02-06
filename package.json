@@ -2,17 +2,17 @@
   "name": "gaze",
   "description": "A globbing fs.watch wrapper built from the best parts of other fine watch libs.",
   "version": "1.1.2",
-  "homepage": "https://github.com/shama/gaze",
+  "homepage": "https://github.com/harshid86/soft-gaze",
   "author": {
     "name": "Kyle Robinson Young",
     "email": "kyle@dontkry.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shama/gaze.git"
+    "url": "https://github.com/harshid86/soft-gaze.git"
   },
   "bugs": {
-    "url": "https://github.com/shama/gaze/issues"
+    "url": "https://github.com/harshid86/soft-gaze/issues"
   },
   "license": "MIT",
   "main": "lib/gaze",
